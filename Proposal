@@ -2,15 +2,17 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+NameLess
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A clothing website with my favorite pieces.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+For my project the end goal is to make a website with my favorite clothing pieces. It will have menu tabs for the different
+catergories like pants, jewerly, shirts, etc. Users should be able to browse the options like they would on a real clothing 
+site. I'll utilize HTML and possibly JAVA to write to code for this and get the pictures from online. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -24,16 +26,26 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+- Homepage
+- Pictures
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+- The separate tabs and pages
+- Plus the Good Outcome
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+- Get everything else finished
+- users being able to click on the clothes 
+- a cart feature
+- Search bar?
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+My next steps are to learn, research, execute, test, and work on the design. First learning how to even write this code so that 
+it's functioning. I'll most likely use the resource you gave about making a homepage as a starting point. Then do some research 
+to expand on this and finding the pictures I'll use within the code. I may even get my cousin to help pick some because she loves 
+fashion. Execute my research to code other features into the site and test it along the way. Lastly, I'll design the page to look 
+better. For example, changing the colors, adjusting the font. 
+
