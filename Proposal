@@ -6,13 +6,13 @@ NameLess
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A streetwear clothing website with my favorite pieces.
+A clothing website with my favorite pieces.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-For my project the end goal is to make a website with my favorite clothing pieces. It will have menu tabs for the different
-catergories like pants, jewerly, shirts, etc. Users should be able to browse the options with pictures  like they would on a
-real clothing site. I'll utilize HTML and possibly JAVA to write to code for this and get the pictures from online. 
+For our project the end goal is to make a website with my favorite clothing pieces. It will have menu tabs for the different
+catergories like pants, jewerly, shirts, etc. Users should be able to browse the options with pictures like they would on a
+real clothing site. We'll utilize HTML, CSS and possibly JAVAscript to write to code for this and get the pictures from online. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -20,7 +20,7 @@ TODO, if applicable
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+Isaiah Martinez, Tul2186@temple.com, Amirhossein  Baghghadam
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
@@ -37,15 +37,12 @@ TODO, if applicable
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
 - Get everything else finished
-- users being able to click on the clothes 
 - a cart feature
-- Search bar?
+- card payment for user input
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-My next steps are to learn, research, execute, test, and work on the design. First learning how to even write this code so that 
-it's functioning. I'll most likely use the resource you gave about making a homepage as a starting point. Then do some research 
-to expand on this and finding the pictures I'll use within the code. I may even get my cousin to help pick some because she loves 
-fashion. Execute my research to code other features into the site and test it along the way. Lastly, I'll design the page to look 
-better. For example, changing the colors, adjusting the font. 
+We are gonna start off with a template that Isaiah already has and build off that. Then do some research to expand on this and 
+finding the pictures. Execute the research to code other features into the site and test it along the way. Lastly, We'll design 
+the page to look better. For example, changing the colors, adjusting the font. 
 
