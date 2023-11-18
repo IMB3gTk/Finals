@@ -1,15 +1,2 @@
 
 
-ToDOs 
-
-1.build trhe procject 
--create folder structure 
--adding files 
--connecting files
-
-
-
-2.nav bar
--2 links and a name 
-
-
