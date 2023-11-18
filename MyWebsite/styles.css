@@ -1,0 +1,100 @@
+/* master styles */
+body {
+    margin: 0px;
+   
+}
+
+
+.The-nav-links { 
+    display: grid; 
+    grid-template-columns: 3fr;
+}
+/*nav styles */
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.right-side{
+    display: flex;
+    font-size: 10pt;
+    color: green;
+}
+
+
+
+.left-side{
+    display: center;
+}
+
+.nav-wrapper > .left-side > div {           /*controls the links ( about youtube and home) */
+    margin-right: 20px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+/*controls the color of links and  manipulates text */
+.nav-link-wrapper {
+    height: 22px;
+    width:  100%;
+    border-bottom: 1px solid transparent;
+    transition: border - bottom 0.5s;
+
+
+
+
+}
+
+
+
+.nav-link-wrapper a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color .5s;
+}
+
+.nav-link-wrapper:hover {
+    border-bottom: 1px solid blue;
+}
+
+
+.nav-link-wrapper a:hover {
+    color:blue;
+}
+
+
+/* logo style (pictures)*/
+
+
+
+/*.two-column-wrapper{
+    display: grid;
+    grid-template-columns:  4fr 4fr;
+}*/
+
+
+
+
+.portfolio-item-wrapper{
+    position: absolute;
+}
+/*Top right bottom left */
+.logo-wrapper{
+    height: auto -1000px;
+    width: auto 499%;
+    margin: auto  -700px 200px;
+    
+
+    
+    
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+
+/*.img-text-wrapper{
+    position: relative;
+    top: 0 ;
+    display: flex;
+
+}*/
